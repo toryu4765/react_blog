@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+/* CSS Document */
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+ ::-webkit-scrollbar-track {
+    background: #eeeeee;
+    display: none;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #333333;
+    border-radius: 5px;
+}
